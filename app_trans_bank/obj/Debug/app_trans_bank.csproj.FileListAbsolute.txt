@@ -1,0 +1,7 @@
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\bin\Debug\app_trans_bank.exe.config
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\bin\Debug\app_trans_bank.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\bin\Debug\app_trans_bank.pdb
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\obj\Debug\app_trans_bank.csproj.AssemblyReference.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\obj\Debug\app_trans_bank.csproj.CoreCompileInputs.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\obj\Debug\app_trans_bank.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1 PARA ENTREGAR\app_trans_bank\app_trans_bank\obj\Debug\app_trans_bank.pdb
